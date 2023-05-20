@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Labb4", "API-Labb4.csproj", "{E71380BE-444A-4011-9918-6C4B17203DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Labb4-ClassLibrary", "..\API-Labb4-ClassLibrary\API-Labb4-ClassLibrary.csproj", "{AC7DBBAB-2824-47BF-ACD4-D14BFA473CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71380BE-444A-4011-9918-6C4B17203DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71380BE-444A-4011-9918-6C4B17203DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71380BE-444A-4011-9918-6C4B17203DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71380BE-444A-4011-9918-6C4B17203DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7DBBAB-2824-47BF-ACD4-D14BFA473CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7DBBAB-2824-47BF-ACD4-D14BFA473CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7DBBAB-2824-47BF-ACD4-D14BFA473CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7DBBAB-2824-47BF-ACD4-D14BFA473CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435323FB-558E-4203-A8C4-1AA93E95C2B6}
+	EndGlobalSection
+EndGlobal
